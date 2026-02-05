@@ -43,7 +43,7 @@ import reposense.util.adapters.ZoneSerializer;
  * Contains file processing related functionalities.
  */
 public class FileUtil {
-    public static final String REPOS_ADDRESS = "repos";
+    public static final String REPOS_ADDRESS = "reposense-report-generate-repos-temp";
 
     // zip file which contains all the specified file types
     public static final String ZIP_FILE = "archive.zip";
